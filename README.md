@@ -1,4 +1,4 @@
-# What is LINQ?
+## What is LINQ?
 LINQ is a standard query syntax in C# that abstracts the logic of retrieving data.
 
 ![](2021-09-08-08-22-22.png)
@@ -9,9 +9,9 @@ The datasource could be a variety of things, here's just a few:
 * JSON
 * A database
 
-# Query Syntax vs Method Syntax
+## Query Syntax vs Method Syntax
 
-## Query Syntax:
+### Query Syntax:
 ```C#
 var names = new List<string>() { 
     "Shawn",
@@ -23,7 +23,7 @@ var result = from name in names
             select name;
 ```
 
-## Method Syntax:
+### Method Syntax:
 ```C#
 var names = new List<string>() { 
     "Shawn",
@@ -40,8 +40,8 @@ var result = names.Where(name => name.Contains("Shawn"));
 * Type safety
   
   
-# Which is easer to understand?
-## Option 1: For Loop
+## Which is easer to understand?
+### Option 1: For Loop
   ```C#
   var students = { 
         new Student() { StudentID = 1, StudentName = "John", Age = 18 },
@@ -67,7 +67,7 @@ var result = names.Where(name => name.Contains("Shawn"));
     }
 ```
 
-## Option 2: LINQ
+### Option 2: LINQ
 ```C#
 var students = { 
         new Student() { StudentID = 1, StudentName = "John", age = 18 } ,
@@ -82,7 +82,7 @@ var students = {
     var teenagerStudents = students.Where(s => s.age > 12 && s.age < 20);
 ```
 
-# Common LINQ Operators
+## Common LINQ Operators
 ```C#
 var students = { 
         new Student() { StudentID = 1, StudentName = "John", age = 18 } ,
@@ -102,7 +102,7 @@ var uniqueStudents = students.Discount();
 
 ```
 
-# Exercises
+## Exercises
 
-# Feedback
+## Feedback
 https://forms.gle/Vbx1hiszfV9sKQkZ8
