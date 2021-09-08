@@ -103,6 +103,9 @@ var uniqueStudents = students.Discount();
 ```
 
 ## Exercises
+A few exercises are found in `Exercises.cs`.
+
+To run, pull down the repo and run `dotnet run` at the root.
 
 ## Feedback
 https://forms.gle/Vbx1hiszfV9sKQkZ8
