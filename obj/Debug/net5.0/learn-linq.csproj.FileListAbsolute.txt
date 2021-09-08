@@ -1,0 +1,15 @@
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/learn-linq.deps.json
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/learn-linq.runtimeconfig.json
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/learn-linq.runtimeconfig.dev.json
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/learn-linq.dll
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/ref/learn-linq.dll
+/Users/patrikdrean/dev/training/learn-linq/bin/Debug/net5.0/learn-linq.pdb
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.csproj.AssemblyReference.cache
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.AssemblyInfoInputs.cache
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.AssemblyInfo.cs
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.csproj.CoreCompileInputs.cache
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.dll
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/ref/learn-linq.dll
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.pdb
+/Users/patrikdrean/dev/training/learn-linq/obj/Debug/net5.0/learn-linq.genruntimeconfig.cache
